@@ -54,7 +54,7 @@ diintegrasikan dengan REST API pada pertemuan berikutnya
 src/
 ├── components/   ConfirmDialog, Icons, TodoModal, Toast
 ├── context/      TodoContext.jsx   (state & operasi CRUD)
-├── data/         dummyTodos.js     (data dummy materi Pemweb sem 3)
+├── data/         dummyTodos.js     (data dummy)
 ├── utils/        deadline.js       (prioritas otomatis, overdue, label hari)
 ├── pages/        TodoList.jsx, TodoDetail.jsx
 ├── App.jsx
@@ -75,20 +75,21 @@ Build produksi: `npm run build`.
 
 ## Screenshot
 
-> Ambil screenshot setelah aplikasi berjalan, simpan di folder `screenshots/`
-> dengan nama berikut, lalu gambar akan tampil di bawah ini.
+### Tampilan Pertama 
 
-### Halaman daftar todo
-![Daftar Todo](screenshots/list.png)
 
-### Modal tambah todo
-![Tambah Todo](screenshots/add.png)
+### Tambah Todo 
 
-### Dialog konfirmasi hapus
-![Hapus Todo](screenshots/delete.png)
+### Update 
 
-### Halaman detail todo
-![Detail Todo](screenshots/detail.png)
+### Tandai/Batalkan selesai 
 
-### Modal update todo
-![Update Todo](screenshots/update.png)
+Tandai Selesai : 
+
+Batalkan Selesai :  
+
+### Hapus 
+ 
+### Contoh lainnya 
+
+ 
